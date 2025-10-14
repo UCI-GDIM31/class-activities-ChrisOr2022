@@ -1,10 +1,13 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Hello World!
+Wrote and sent an email to Professor Reid. Had much trouble opening the files on Unity because of OneDrive being synced to it. But evntually was able to open it. H
 
 ### W2
 r, g, and b are all float variables because they are not whole numbers. If they were whole numbers without any decinmals, then they would be able to be integers. However, because they aren't, they are float numbers. The bounce number is an integer because bounces can only be counter in whole numbers, not in decimals. And lastly, when fixing the error in the code for part 4, it told us to be weary and always remember that ";" should always be at the end of every line of code, because without it then visual studio wouldn't run it. 
+
+### W3
+We decided to have a string code as the response for the character to give us a text response. We were also talking about using an int value for detecting what the friendship level between the player and npc would be. I am in group 13, and our prompt is taken from tables 7-13 on Canvas. I was thinking about but wasn't able to get a response whether a true or false statement, or an if statement would be used on order for the response to tie into a specific dialogue depending on if the player's friendship level is high enough, and if it indicates that the player knows the NPC's secret. 
 
 
 ## Open-Source Assets
