@@ -15,7 +15,7 @@ Table 13: Line 17 uses a true or false method to check if the player is on the g
 ### W4 part 2
 I did not manage to complete the week 4 class activity, but I did manage to finally open the file after going through 3 LA's and after seeking the professor's help. A lot of issues occured with it not popping up on GitHUb, and having to copy it multuple times. There was also a couple of occurences where the textures didn't load and it would only show the unity objects in pink. And lastly, after some help with Brandon, and fixing some more issues with OneDrvie, I finally managed to access the Week 4 Unity files with its proper textures. 
 
-### W5 
+### W5 Activity 1
 My question was revolving aroudn 3D values being transformed by adding positive values, and if they could also be transformed by subtracting variables instead. My question was that if there there are any examples where having to subtract or add values is necessary within a game, and if its absolutely necessary. However, after discussing with my group for a bit I found out that these could be used as saving points in both 3D and 2D games, or when a player want's to teleport to a certain spot on the game's map. 
 
 
