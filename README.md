@@ -18,6 +18,9 @@ I did not manage to complete the week 4 class activity, but I did manage to fina
 ### W5 Activity 1
 My question was revolving aroudn 3D values being transformed by adding positive values, and if they could also be transformed by subtracting variables instead. My question was that if there there are any examples where having to subtract or add values is necessary within a game, and if its absolutely necessary. However, after discussing with my group for a bit I found out that these could be used as saving points in both 3D and 2D games, or when a player want's to teleport to a certain spot on the game's map. 
 
+### W5 Ativity 2
+We created a rigodbody function for the deer itself, the cat, but not the mushroom. We eventually also added a nav mash function for the movement of the cat so that i t can move in any of the three axis. Lastly we set a red mushroom as the target that the deer will chase that will be planted in a specific spot using the mesh nav function. 
+
 
 lllsfkd
 ## Open-Source Assets
