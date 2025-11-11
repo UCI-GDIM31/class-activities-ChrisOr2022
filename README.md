@@ -21,6 +21,9 @@ My question was revolving aroudn 3D values being transformed by adding positive 
 ### W5 Ativity 2
 We created a rigodbody function for the deer itself, the cat, but not the mushroom. We eventually also added a nav mash function for the movement of the cat so that i t can move in any of the three axis. Lastly we set a red mushroom as the target that the deer will chase that will be planted in a specific spot using the mesh nav function. 
 
+### W6 Actvity 2 Part 1
+We initially tried to calculate using vectors as the integers between the bat and the player, but we kept encountering errors. And eventually, we tried a float integer instead of a vector one, and it worked. We also ended up subtracting the players' distance from the bats'distance in order to calculate the distance between them. We also decided to add an [1] function right after the _bats name in order for it to affect all bats around the player. For the BatW6 script we used a transform position method to make the bats follow the player whenever they reach a certain range. 
+
 
 lllsfkd
 ## Open-Source Assets
